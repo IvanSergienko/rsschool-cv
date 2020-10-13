@@ -47,4 +47,6 @@ Looking forward to become a highly qualified Front-End developer. Despite a lack
 
 #### _Other information:_
 
+English - B1;
 
+Driving license - B category;
