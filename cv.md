@@ -47,4 +47,4 @@ Looking forward to become a highly qualified Front-End developer. Despite a lack
 
 #### _Other information:_
 
-Cat Dexter is onboard;
+
