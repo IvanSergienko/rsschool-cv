@@ -1,0 +1,36 @@
+.center {
+  margin: auto;
+  max-width: 1024px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  background-color: #ffff;
+  font-size: 20px;
+}
+
+hr {
+  margin: 20px 0;
+  padding: 0;
+  height: 10px;
+  border: none;
+  background: linear-gradient(45deg, #333, #ddd);
+}
+h2, h3 {
+    background-color: grey;
+    width: 40%;
+    margin: 20px;
+}
+.list1 {
+    padding:0;
+    list-style: none;
+}
+.list1 li{
+    padding:6px;
+}
+.list1 li:before {
+    padding-right:10px;
+    font-weight: bold;
+    color: black;
+    content: "\1F5F8";
+}
+ol, p, table {
+    line-height: 30px;
+}
